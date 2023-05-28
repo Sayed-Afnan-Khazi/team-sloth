@@ -618,3 +618,36 @@ right .recent-updates .updates .update {
         font-size: 2rem;
     }
 } 
+
+.add-transaction{
+    box-sizing: border-box;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top:100px;
+    margin-left: 110px;
+    border: solid black;
+    border-radius: 15px;
+    height: 60px;
+    width: 140px;
+}
+
+.mastertable{
+    box-sizing: border-box;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top:30px;
+    margin-left: 110px;
+    border: solid black;
+    border-radius: 15px;
+    height: 60px;
+    width: 140px;
+}
+
